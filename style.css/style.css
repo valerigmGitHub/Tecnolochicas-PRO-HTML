@@ -1,1 +1,39 @@
+/*Así se escriben comentarios en css*/
 
+body{
+    color:rgb(173, 0, 130);
+    background-color: rgb(173, 252, 221);
+}
+
+p{
+    Color: rgb(8, 15, 10);
+}
+
+h3{
+    font-size: 30px;
+    font-family: georgia;
+
+}
+/*Google fonts*/
+h1{
+    font-family: 'EB Garamond', serif;
+}
+/*Tamaño de la fuente*/
+p,
+ul,
+ol {
+    font-size: 20px;
+}
+img{
+    /*Propiedad width =ancho*/
+    width: 250px;
+    border-style:groove;
+    /*Estilos de bordes dotted, ridge, double groove solid*/
+    border-width: 10px;
+    border-color: rgb(149, 243, 141);
+    padding: 10px;
+    margin: 15px;
+}
+div{
+    background-color: rgb(187, 238, 253);
+}
